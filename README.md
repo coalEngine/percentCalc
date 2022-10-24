@@ -1,3 +1,3 @@
-# percentCalc
+# percentage calculator
 
 Simple % Calculator
